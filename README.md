@@ -1,12 +1,19 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/OamWVCshJHAAAAAd/dear-daniel-hello-kitty.gif" width="100%" />
+  <img src="https://media1.tenor.com/m/OamWVCshJHAAAAAd/dear-daniel-hello-kitty.gif" width="85%" />
 </div>
 
-# 홍윤지 (Hong Yoon Ji)
-
-<p align="center">
+## 🌱 About Me
+<p>
   <a href="https://github.com/dbszl3">
-    <img src="https://img.shields.io/badge/GitHub-@dbszl3-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @dbszl3" />
+    <img src="https://img.shields.io/badge/GitHub-dbszl3-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:yoonji0811@naver.com">
+    <img src="https://img.shields.io/badge/Email-yoonji0811%40naver.com-181717?style=flat-square&logo=mailboxdotorg&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/i1lil11">
+    <img src="https://img.shields.io/badge/Instagram-i1lil11-181717?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
