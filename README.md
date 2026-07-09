@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://media1.tenor.com/m/OamWVCshJHAAAAAd/dear-daniel-hello-kitty.gif" width="85%" />
 </div>
 
