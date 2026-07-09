@@ -6,7 +6,7 @@
 </div>
 
 ## 📑 Library
-<div align="left>
+<div align="left">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 </div>
 
