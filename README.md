@@ -2,6 +2,14 @@
   <img src="https://media1.tenor.com/m/OamWVCshJHAAAAAd/dear-daniel-hello-kitty.gif" width="100%" />
 </div>
 
+# 홍윤지 (Hong Yoon Ji)
+
+<p align="center">
+  <a href="https://github.com/dbszl3">
+    <img src="https://img.shields.io/badge/GitHub-@dbszl3-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub @dbszl3" />
+  </a>
+</p>
+
 ## 🌍 Language
 <div align="left">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
