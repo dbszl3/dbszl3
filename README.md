@@ -5,6 +5,11 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+## 📑 Library
+<div align="left>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+</div>
+
 <!--
 **dbszl3/dbszl3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
