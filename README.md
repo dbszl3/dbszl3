@@ -17,17 +17,28 @@
   </a>
 </p>
 
-## 🌍 Language
-<div align="left">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+## 💻 Tech Stack
 
-## 📑 Library
-<div align="left">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-</div>
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=java,mysql" />
+</p>
+
+### 💡 Language
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  <img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
 
 <!--
 **dbszl3/dbszl3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
