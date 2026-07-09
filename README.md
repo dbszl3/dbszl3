@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media1.tenor.com/m/OamWVCshJHAAAAAd/dear-daniel-hello-kitty.gif" width="100%" />
+</div>
+
 ## 🌍 Language
 <div align="left">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
