@@ -3,6 +3,10 @@
 </div>
 
 ## 🌱 About Me
+
+- 🎓 Seokyeong University, Software Engineering (2023.03 ~ Present)
+- 🦁 LikeLion 14th Frontend
+<br/>
 <p>
   <a href="https://github.com/dbszl3">
     <img src="https://img.shields.io/badge/GitHub-dbszl3-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -68,6 +72,10 @@
     <td align="center" width="130">
       <img src="https://skillicons.dev/icons?i=cpp" width="55"/><br/>
       <img src="https://img.shields.io/badge/C++-181717?style=flat-square&logo=cplusplus&logoColor=00599C"/>
+    </td>
+    <td align="center" width="130">
+      <img src="https://skillicons.dev/icons?i=python" width="55"/><br/>
+      <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=3776AB"/>
     </td>
   </tr>
 </table>
