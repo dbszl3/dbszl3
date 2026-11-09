@@ -21,6 +21,15 @@
   </a>
 </p>
 
+## 🐾 My Git Zoo
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=dbszl3&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/dbszl3"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
